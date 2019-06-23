@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## A Psych Student's Programming Diary
+
+### Purpose of this Page
+This page will be used to document my progress in learning Python for programming experiments.
 
 You can use the [editor on GitHub](https://github.com/psychbella/psychbella.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
